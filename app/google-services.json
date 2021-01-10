@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321486472491",
+    "firebase_url": "https://u-decide-demo.firebaseio.com",
+    "project_id": "u-decide-demo",
+    "storage_bucket": "u-decide-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321486472491:android:4465567d7441ed348fb16e",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321486472491-rosfuv12cg4j10vq2mkbt2hlrs883b7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5-8poN3hAomTjqDJozmqwHObA-yDBnG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321486472491-rosfuv12cg4j10vq2mkbt2hlrs883b7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

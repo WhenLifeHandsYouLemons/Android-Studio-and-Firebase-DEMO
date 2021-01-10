@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DEMO</string>
+    <string name="some_new_name">Some New Name</string>
+    <string name="welcome_to_the_yarn_app">Welcome To The Yarn App!</string>
+    <string name="welcome_to_the_yarn_app">Welcome To The Yarn App!</string>
 </resources>
